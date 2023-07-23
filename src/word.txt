@@ -1,0 +1,4 @@
+swipe
+school
+red
+green
