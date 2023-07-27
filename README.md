@@ -1,4 +1,5 @@
 # wordle-game-rust
+simple wordle game using rust
 ## Installation
 - git clone https://github.com/ABIJITH22/wordle-game-rust
 - cargo run src\word.txt
